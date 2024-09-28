@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Aadarsh Vani
 
 **Data Science | Machine Learning | Deep Leaing | GenAI | DSA**
 
@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m passionate about extracting insights from data and b
 - 📊 I enjoy working with data to uncover trends, patterns, and actionable insights.
 - 🤖 I build machine learning models, from preprocessing to deployment.
 - 🧬 I have experience with **Python**, **SQL**, **Pandas**, **Scikit-learn**, **TensorFlow**, **PyTorch**, and more!
-- 🎓 I hold a degree in [Your Degree] from [Your University].
+- 🎓 I hold a degree in Civil Engineering from IPS Academy, Indore.
 
 ---
 
@@ -22,24 +22,6 @@ Welcome to my GitHub! I’m passionate about extracting insights from data and b
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud Platforms:** AWS, Azure, Google Cloud
 - **Version Control:** Git, GitHub
-
----
-
-### 📈 My Projects
-Here are some of the data science projects I’ve been working on:
-
-- 📊 [**Project 1:**](link) A deep dive into [describe the project, e.g., customer segmentation using clustering techniques].
-- 🧬 [**Project 2:**](link) Building a predictive model for [e.g., stock price prediction, disease detection].
-- 🔍 [**Project 3:**](link) [Explain briefly another interesting project].
-
-Feel free to explore the repositories for details on each project.
-
----
-
-### 📫 Let's Connect!
-- LinkedIn: [AadarshVani]([(https://www.linkedin.com/in/aadarsh-vani)]())
-- Portfolio: [Your Portfolio Website](link) (if applicable)
-- Email: [aadarshvani.data@gmail.com](mailto:aadarshvani.data@gmail.com)
 
 ---
 
