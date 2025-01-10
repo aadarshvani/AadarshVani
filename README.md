@@ -26,7 +26,3 @@ Welcome to my GitHub! I’m passionate about extracting insights from data and b
 ---
 
 Thanks for visiting my profile! Let’s solve data problems together!
-
----
-
-You can copy this to a `README.md` file and update the placeholders with your personal details, projects, and links.
